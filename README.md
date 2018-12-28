@@ -32,9 +32,5 @@
 
 ---
 
-- ### 公众号：
-
-<img src="./content/images/qr.jpg" width="300">
-
 - ###  知乎专栏
    [夸克夸克的升级之路](https://zhuanlan.zhihu.com/quarkquark)
