@@ -1,6 +1,8 @@
 # EVOLUTION
 > 记录种种技术相关的学习与成长，希望能够坚持下去。
 
+## 2019
+
 ## 2018
 - [人民币或日元符号'¥'，还有半角全角之分](https://github.com/huangzilong/evolution/issues/4)
 - [小程序 | 如何与web-view共享cookie](https://github.com/huangzilong/evolution/issues/3)
@@ -20,14 +22,6 @@
 
 ## before 2018
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 
