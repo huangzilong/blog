@@ -8,6 +8,14 @@
 </div>
 
 {%- if theme.site_state %}
+{% if theme.rss %}
+   <div class="feed-link motion-element">
+     <a href="{{ url_for(theme.rss) }}" rel="alternate">
+       <i class="fa fa-rss"></i>
+       RSS
+     </a>
+   </div>
+ {% endif %}
 <div class="site-state-wrap motion-element">
   <nav class="site-state">
     {%- if config.archive_dir != '/' and site.posts.length > 0 %}

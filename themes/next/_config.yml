@@ -995,3 +995,7 @@ vendors:
 css: css
 js: js
 images: images
+
+# RSS订阅
+rss: /atom.xml
+
