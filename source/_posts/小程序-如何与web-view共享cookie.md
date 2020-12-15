@@ -2,9 +2,12 @@
 title: 小程序| 如何与web-view共享cookie
 date: 2018-11-26 21:04:58
 tags:
+- 小程序
 ---
 
-> 目前我司准备在小程序里通过web-view嵌套h5,希望在小程序调用api(wx.request())，然后server端通过api的header设置cookie。因为cookie均是通过http设置或者携带，以为这样，就可以在web-view里通过http请求(xhr或者fetch)带上小程序请求的api中设置的cookie。事实证明`too young too naive `。
+> 目前我司准备在小程序里通过web-view嵌套h5,希望在小程序调用api(wx.request())，然后server端通过api的header设置cookie。因为cookie均是通过http设置或者携带，以为这样，就可以在web-view里通过http请求(xhr或者fetch)带上小程序请求的api中设置的cookie。事实证明 `too young too naive`。
+
+<!-- more -->
 
 ## 小程序没法设置cookie到web-view中
 
