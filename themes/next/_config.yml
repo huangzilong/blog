@@ -199,9 +199,9 @@ links_settings:
   # Available values: block | inline
   layout: block
 
-links:
-  liriansu: https://liriansu.com/
-  wzmmmmj: https://wzmmmmj.com/
+# links:
+#   liriansu: https://liriansu.com/
+#   wzmmmmj: https://wzmmmmj.com/
 
 # Table of Contents in the Sidebar
 # Front-matter variable (unsupport wrap expand_all).
