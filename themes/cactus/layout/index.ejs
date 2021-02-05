@@ -71,3 +71,12 @@
   </ul>
 </section>
 <% } %>
+
+<% if (site.data.links) { %>
+  <section id="projects">
+    <span class="h1"><a href="<%- url_for(theme.projects_url) %>">Links</a></span>
+    <% for(var obj in site.data.links){ %>
+      <a href="<%= site.data.links[obj].url %>"><%= site.data.links[obj].name %> &gt;&gt;</a>&nbsp; | &nbsp;
+    <% } %>
+  </section>
+  <% } %>
