@@ -14,10 +14,11 @@ direction: ltr
 # navigation menu. Optionally, you can add translations for the 'Key' in
 # languages/*.yml
 nav:
-  home: /
-  articles: /archives/
-  about: /about/
-  rss: /atom.xml
+  Home: /
+  Articles: /archives/
+  Topics: /tags/
+  About: /about/
+  Rss: /atom.xml
   # projects: projects_url
 
 
